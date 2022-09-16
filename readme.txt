@@ -25,3 +25,5 @@ Theme for WordPress used in personal sites, you need to install advanced-custom-
 
 = 1.0 - September 17 22 =
 * Initial release
+
+
